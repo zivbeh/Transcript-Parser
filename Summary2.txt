@@ -1,0 +1,12 @@
+Overall Statistics
+Total NUmber Of Speakers: 2
+Total Length Of session: 27.616666666666667 mins
+Total NUmber of Speaker Changes: 61
+
+David Dobervich (he/him) spoke 337.0 Sec
+Average Speaking time for David Dobervich (he/him) is 3.7865168539325844
+WPM for David Dobervich (he/him) is 134.95548961424333
+Bradley Scholten spoke 736.0 Sec
+Average Speaking time for Bradley Scholten is 3.935828877005348
+WPM for Bradley Scholten is 136.2228260869565
+

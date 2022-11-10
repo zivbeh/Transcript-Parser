@@ -1,0 +1,21 @@
+Overall Statistics
+Total NUmber Of Speakers: 5
+Total Length Of session: 55.68333333333333 mins
+Total NUmber of Speaker Changes: 29
+
+Andrew Knight spoke 361.0 Sec
+Average Speaking time for Andrew Knight is 7.680851063829787
+WPM for Andrew Knight is 171.19113573407202
+Paul McCartney spoke 2275.0 Sec
+Average Speaking time for Paul McCartney is 9.400826446280991
+WPM for Paul McCartney is 187.72747252747254
+George Harrison spoke 4.0 Sec
+Average Speaking time for George Harrison is 1.3333333333333333
+WPM for George Harrison is 225.0
+Ringo Starr spoke 2.0 Sec
+Average Speaking time for Ringo Starr is 2.0
+WPM for Ringo Starr is 180.0
+John Lennon spoke 21.0 Sec
+Average Speaking time for John Lennon is 3.0
+WPM for John Lennon is 202.85714285714286
+
